@@ -1,3 +1,4 @@
+package grupparbete.chattclient;
 import javax.swing.*;
 import java.awt.*;
 

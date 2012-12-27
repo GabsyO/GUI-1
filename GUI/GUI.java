@@ -1,3 +1,4 @@
+package grupparbete.chattclient;
 import javax.swing.*;
 import java.awt.*;
 
@@ -14,6 +15,8 @@ public class GUI extends JFrame {
   setLocationRelativeTo(null);
   setSize(400, 400);
   setLayout(new GridLayout(1,2));
+  
+  
   
   }
 
